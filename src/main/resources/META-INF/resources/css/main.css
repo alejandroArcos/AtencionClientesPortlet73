@@ -1,0 +1,17 @@
+#atencionClientes .btn-group{
+	width: 100%;
+}
+#atencionClientes .btn-group .p-none{
+	padding: 0px;
+}
+#atencionClientes .btn-group .w-100{
+	width: 100%;
+}
+#atencionClientes .btn-group .waves-light {
+    background-color: #a681ba;
+    color: white;
+}
+#atencionClientes .btn-group .waves-light.active {
+    background-color: #8a3399;
+    color: white;
+}
